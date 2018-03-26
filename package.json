@@ -1,7 +1,11 @@
 {
-  "name": "parallelpromise",
+  "name": "parallel-promise",
   "version": "0.0.1",
   "description": "run promises with timeout, in parallel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exoticknight/ParallelPromise.git"
+  },
   "main": "main.js",
   "scripts": {
     "build": "rm -rf lib && tsc",
