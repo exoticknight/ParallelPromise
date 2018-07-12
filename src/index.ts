@@ -113,7 +113,7 @@ export default function ParallelPromise(
             })
             resolve({ status: StatusCode.RESOLVE, data: d })
           }).catch(d => {
-            resolveQueue.push(i)
+            rejectQueue.push(i)
             onProgress({
               total: totalCount,
               resolve: resolveQueue.slice(0),
