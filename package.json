@@ -16,8 +16,7 @@
   "files": [
     "dist",
     "LICENSE",
-    "README.md",
-    "main.js"
+    "README.md"
   ],
   "keywords": [
     "promise",

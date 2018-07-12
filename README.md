@@ -2,6 +2,8 @@
 
 run promises with timeout, in parallel
 
+> you can alse check [serial-promise](https://www.npmjs.com/package/serial-promise)
+
 ## Install
 
 ```bash
