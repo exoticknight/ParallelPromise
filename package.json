@@ -1,6 +1,6 @@
 {
   "name": "parallel-promise",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "run promises with timeout, in parallel",
   "repository": {
     "type": "git",
